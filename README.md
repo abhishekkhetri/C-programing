@@ -1,1 +1,3 @@
-# Name- Abhishek T Khetri class- Soc-19 roll no- 62
+# Name- Abhishek T Khetri 
+class- Soc-19 
+roll no- 62
